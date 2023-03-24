@@ -1,6 +1,6 @@
 body {
   background-image: url(https://wallpaper.dog/large/20464782.jpg);
-  color: white;
+  color: white
   
 }
 
@@ -48,7 +48,7 @@ body {
 
 #tribute-info > ul li {
     margin-bottom: 10px;
-    line-height: 3px;
+    line-height: 30px;
   }
 
 h5 {
