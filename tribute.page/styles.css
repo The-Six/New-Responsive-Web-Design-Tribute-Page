@@ -1,5 +1,6 @@
 body {
   background-image: url(https://wallpaper.dog/large/20464782.jpg);
+  color: white;
   
 }
 
@@ -9,7 +10,7 @@ body {
     max-height: 100%;
     margin: 30px auto;
     padding: 15px;
-    background-color: #2F4F4F;
+    background-color: black;
     border-radius: 10px;
   }
 
@@ -47,7 +48,7 @@ body {
 
 #tribute-info > ul li {
     margin-bottom: 10px;
-    line-height: 3opx;
+    line-height: 3px;
   }
 
 h5 {
