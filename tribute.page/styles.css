@@ -1,6 +1,7 @@
 body {
   background-image: url(https://wallpaper.dog/large/20464782.jpg);
-  color: white
+  color: white;
+  overflow: hidden;
   
 }
 
