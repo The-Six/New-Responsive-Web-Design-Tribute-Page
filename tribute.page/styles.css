@@ -1,8 +1,17 @@
 body {
   background-image: url(https://wallpaper.dog/large/20464782.jpg);
   color: white;
-  overflow: hidden;
   
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+body {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
 }
 
 
